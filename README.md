@@ -39,18 +39,18 @@
 
 ## 项目实例
 
-* [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)快应用版本的Gank客户端
-* [quickapp-neihanchezhan](https://github.com/Licoy/quickapp-neihanchezhan)内涵车站APP
+* [quickapp_gank-快应用版本的Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
+* [quickapp-neihanchezhan-内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
 * [quickapp-douban](https://github.com/hjl19911127/quickapp-douban)
 
 ## 组件和库
 
-* [weui-quickapp](https://github.com/rixingyike/weui-quickapp)适用于快应用的一般UI框架，由weui改造而来
+* [weui-quickapp-适用于快应用的一般UI框架，由weui改造而来](https://github.com/rixingyike/weui-quickapp)
 
 ## 插件
 
-* [Vscode Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)轻应用语法高亮插件
+* [Vscode Hap Extension-轻应用语法高亮插件](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
 
 ## 社区
 
@@ -66,7 +66,7 @@
 ## 代码示例
 
 * [quickapp-demo](https://github.com/SmileSmith/quickapp-demo)
-* [quickappDemo](https://github.com/hongyangAndroid/quickappDemo)快应用文章教程demo示例
+* [快应用文章教程demo示例](https://github.com/hongyangAndroid/quickappDemo)
 
 ## 讨论
 
