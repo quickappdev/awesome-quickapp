@@ -47,6 +47,7 @@
 ## 组件和库
 
 * [weui-quickapp-适用于快应用的一般UI框架，由weui改造而来](https://github.com/rixingyike/weui-quickapp)
+* [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
 
 ## 插件
 
@@ -61,7 +62,10 @@
 
 * [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 * [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
-* [快应用 QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
+* [快应用 QuickApp-入门指北](https://zhuanlan.zhihu.com/p/34774751)
+* [快应用开发之HelloWorld](https://www.cnblogs.com/simleSmith/p/8618256.html)
+* [快应用简单教程](https://github.com/williamfzc/QuickAppLearner)
+* [饿了么快应用初体验 by YoungZ](https://juejin.im/post/5ab119ef51882555712c3372)
 
 ## 代码示例
 
