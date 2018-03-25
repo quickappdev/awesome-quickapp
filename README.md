@@ -22,6 +22,7 @@
 * [代码示例](#代码示例)
 * [讨论](#讨论)
 * [文章](#文章)
+* [视频](#视频)
 * [图书](#图书)
 * [求职](#求职)
 
@@ -36,6 +37,7 @@
 ## 工具
 
 * [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
+* [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
 
 ## 项目实例
 
@@ -52,6 +54,7 @@
 ## 插件
 
 * [Vscode Hap Extension-轻应用语法高亮插件](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
+* [一个基于vscode应用于‘快应用’语法高亮](https://github.com/hatedMe/QuickApp-For-Highlighter)
 
 ## 社区
 
@@ -84,6 +87,10 @@
 * [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
+
+## 视频
+
+* [快应用视频介绍](https://swsdl.vivo.com.cn/appstore/developer/uploadfile/20180323/20180323183010837.mp4)
 
 ## 图书
 
