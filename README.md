@@ -45,6 +45,7 @@
 * [quickapp-neihanchezhan-内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
 * [quickapp-douban](https://github.com/hjl19911127/quickapp-douban)
+* [快应用实现的微信demo](https://github.com/yale8848/quickapp-wechat)
 
 ## 组件和库
 
@@ -69,6 +70,7 @@
 * [快应用开发之HelloWorld](https://www.cnblogs.com/simleSmith/p/8618256.html)
 * [快应用简单教程](https://github.com/williamfzc/QuickAppLearner)
 * [饿了么快应用初体验 by YoungZ](https://juejin.im/post/5ab119ef51882555712c3372)
+* [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](http://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
 
 ## 代码示例
 
@@ -87,6 +89,7 @@
 * [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
+* [快应用-技术调研](http://mp.weixin.qq.com/s/44SX9k1tbAtqhaxP-OwosQ)
 
 ## 视频
 
