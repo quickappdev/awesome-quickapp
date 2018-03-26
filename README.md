@@ -92,6 +92,7 @@
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
 * [快应用-技术调研](http://mp.weixin.qq.com/s/44SX9k1tbAtqhaxP-OwosQ)
+* [Hello！快应用](http://mp.weixin.qq.com/s/zgkAR7YsbYt_CILacmD4sg)
 
 ## 视频
 
