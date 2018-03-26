@@ -8,7 +8,7 @@
 
 ## 微信交流群
 
-* 请加微信号: [quickapp-dev](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXuPyCqIuNTiauuq1bU9ibUUS0ezHpSX6j4iclamHykX0Sh5L0EMPCckxnZGXOfaLBsYRm48rLib85icOPA/0?wx_fmt=jpeg) ，由管理员邀请入群。
+* 请加微信号: [quickapp-dev](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXuPyCqIuNTiauuq1bU9ibUUS0ezHpSX6j4iclamHykX0Sh5L0EMPCckxnZGXOfaLBsYRm48rLib85icOPA/0) ，由管理员邀请入群。
 
 ## 目录
 
@@ -59,7 +59,7 @@
 
 ## 社区
 
-* [快应用开发圈-微信公众号](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXtpdBqYpsYB0ics7DBYuJc9FbGIribBeypojBbb5fBMTEJxozajhovLD6qtibiayqsrfowyiaTlQhM3QkA/0?wx_fmt=jpeg)
+* [快应用开发圈-微信公众号](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXtpdBqYpsYB0ics7DBYuJc9FbGIribBeypojBbb5fBMTEJxozajhovLD6qtibiayqsrfowyiaTlQhM3QkA/0)
 * [快应用开发圈-微信小程序]
 
 ## 教程
