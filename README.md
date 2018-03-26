@@ -8,7 +8,8 @@
 
 ## 微信交流群
 
-* 请加微信号: [quickapp-dev](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXuPyCqIuNTiauuq1bU9ibUUS0ezHpSX6j4iclamHykX0Sh5L0EMPCckxnZGXOfaLBsYRm48rLib85icOPA/0) ，由管理员邀请入群。
+* 请加微信号: [quickapp-dev](./statics/quickapp-dev.jpg)或扫码 ，由管理员邀请入群。   
+![quickapp-dev](./statics/quickapp-dev.jpg)
 
 ## 目录
 
