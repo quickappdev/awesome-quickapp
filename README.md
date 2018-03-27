@@ -93,6 +93,9 @@
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
 * [快应用-技术调研](http://mp.weixin.qq.com/s/44SX9k1tbAtqhaxP-OwosQ)
 * [Hello！快应用](http://mp.weixin.qq.com/s/zgkAR7YsbYt_CILacmD4sg)
+* [快应用标准发布，开发者需要知道些什么？](https://time.geekbang.org/column/article/5108)
+* [手机厂商和开发者为何看好快应用新生态](https://zhuanlan.zhihu.com/p/34984080)
+* [快应用发起进攻第一枪！小米直达服务正式更名快应用](https://zhuanlan.zhihu.com/p/34985022)
 
 ## 视频
 
