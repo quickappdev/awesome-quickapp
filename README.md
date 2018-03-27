@@ -58,6 +58,7 @@
 
 * [Vscode Hap Extension-轻应用语法高亮插件](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
 * [一个基于vscode应用于‘快应用’语法高亮](https://github.com/hatedMe/QuickApp-For-Highlighter)
+* [Vscode Quick App美化代码](https://github.com/hatedMe/beautify-quick-app)
 
 ## 社区
 
@@ -72,7 +73,7 @@
 * [快应用开发之HelloWorld](https://www.cnblogs.com/simleSmith/p/8618256.html)
 * [快应用简单教程](https://github.com/williamfzc/QuickAppLearner)
 * [饿了么快应用初体验 by YoungZ](https://juejin.im/post/5ab119ef51882555712c3372)
-* [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](http://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
+* [快应用快速入门教程 by五个半柠檬(SF)](https://segmentfault.com/a/1190000014012762?utm_source=tag-newest)
 
 ## 代码示例
 
@@ -96,6 +97,7 @@
 * [快应用标准发布，开发者需要知道些什么？](https://time.geekbang.org/column/article/5108)
 * [手机厂商和开发者为何看好快应用新生态](https://zhuanlan.zhihu.com/p/34984080)
 * [快应用发起进攻第一枪！小米直达服务正式更名快应用](https://zhuanlan.zhihu.com/p/34985022)
+* [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](http://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
 
 ## 视频
 
