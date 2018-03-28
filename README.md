@@ -53,6 +53,7 @@
 
 * [weui-quickapp-适用于快应用的一般UI框架，由weui改造而来](https://github.com/rixingyike/weui-quickapp)
 * [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
+* [快应用API的集合Demo](https://github.com/l455202325/APIDemo)
 
 ## 插件
 
