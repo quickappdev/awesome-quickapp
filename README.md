@@ -100,6 +100,7 @@
 * [快应用发起进攻第一枪！小米直达服务正式更名快应用](https://zhuanlan.zhihu.com/p/34985022)
 * [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](http://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
 * [魅族体验快应用：免安装，快速触达你要的服务](https://zhuanlan.zhihu.com/p/35007620)
+* [快应用开源项目汇总，期待你的支持与关注！](https://juejin.im/post/5abb0b01f265da23906c0f1f)
 
 ## 视频
 
