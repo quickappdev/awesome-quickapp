@@ -75,6 +75,7 @@
 * [饿了么快应用初体验 by YoungZ](https://juejin.im/post/5ab119ef51882555712c3372)
 * [快应用快速入门教程 by五个半柠檬(SF)](https://segmentfault.com/a/1190000014012762?utm_source=tag-newest)
 * [入门快应用的另一种姿势](https://juejin.im/post/5abb91bc5188255c93235780)
+* [快应用实现自定义组件](http://mp.weixin.qq.com/s/CstRBA0I5mtFppU4PIPF4g)
 
 ## 代码示例
 
