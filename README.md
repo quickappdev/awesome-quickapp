@@ -38,7 +38,6 @@
 
 ## 工具
 
-* [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
 * [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
 
 ## 项目实例
@@ -51,6 +50,7 @@
 
 ## 组件和库
 
+* [Quix UI快应用UI库](https://github.com/wuxinzhe/QuixUI)
 * [weui-quickapp-适用于快应用的一般UI框架，由weui改造而来](https://github.com/rixingyike/weui-quickapp)
 * [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
 * [快应用API的集合Demo](https://github.com/l455202325/APIDemo)
