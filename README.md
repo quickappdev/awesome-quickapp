@@ -45,14 +45,11 @@
 * [quickapp_gank-快应用版本的Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
 * [quickapp-neihanchezhan-内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
-* [quickapp-douban](https://github.com/hjl19911127/quickapp-douban)
 * [快应用实现的微信demo](https://github.com/yale8848/quickapp-wechat)
 
 ## 组件和库
 
 * [Quix UI快应用UI库](https://github.com/wuxinzhe/QuixUI)
-* [weui-quickapp-适用于快应用的一般UI框架，由weui改造而来](https://github.com/rixingyike/weui-quickapp)
-* [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
 
 ## 插件
 
@@ -67,6 +64,8 @@
 
 ## 教程
 
+### 初级
+
 * [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 * [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
 * [快应用 QuickApp-入门指北](https://zhuanlan.zhihu.com/p/34774751)
@@ -77,9 +76,13 @@
 * [入门快应用的另一种姿势](https://juejin.im/post/5abb91bc5188255c93235780)
 * [快应用实现自定义组件](http://mp.weixin.qq.com/s/CstRBA0I5mtFppU4PIPF4g)
 
+### 中级
+
+### 高级
+
+
 ## 代码示例
 
-* [quickapp-demo](https://github.com/SmileSmith/quickapp-demo)
 * [快应用文章教程demo示例](https://github.com/hongyangAndroid/quickappDemo)
 * [快应用API的集合Demo](https://github.com/l455202325/APIDemo)
 * [hello-quickapp快应用接口及组件示例](https://github.com/dcloudio/quickapp)
