@@ -53,7 +53,6 @@
 * [Quix UI快应用UI库](https://github.com/wuxinzhe/QuixUI)
 * [weui-quickapp-适用于快应用的一般UI框架，由weui改造而来](https://github.com/rixingyike/weui-quickapp)
 * [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
-* [快应用API的集合Demo](https://github.com/l455202325/APIDemo)
 
 ## 插件
 
@@ -75,11 +74,14 @@
 * [快应用简单教程](https://github.com/williamfzc/QuickAppLearner)
 * [饿了么快应用初体验 by YoungZ](https://juejin.im/post/5ab119ef51882555712c3372)
 * [快应用快速入门教程 by五个半柠檬(SF)](https://segmentfault.com/a/1190000014012762?utm_source=tag-newest)
+* [入门快应用的另一种姿势](https://juejin.im/post/5abb91bc5188255c93235780)
 
 ## 代码示例
 
 * [quickapp-demo](https://github.com/SmileSmith/quickapp-demo)
 * [快应用文章教程demo示例](https://github.com/hongyangAndroid/quickappDemo)
+* [快应用API的集合Demo](https://github.com/l455202325/APIDemo)
+* [hello-quickapp快应用接口及组件示例](https://github.com/dcloudio/quickapp)
 
 ## 讨论
 
