@@ -38,7 +38,7 @@
 
 ## 工具
 
-* [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
+* [快应用转换工具 - 小程序转快应用](https://github.com/dcloudio/uni-migration)
 
 ## 项目实例
 
