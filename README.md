@@ -36,6 +36,14 @@
 * [官方网站](https://www.quickapp.cn/)
 * [官方论坛](http://bbs.quickapp.cn/)
 
+### 发布流程
+
+* [新手必读-应用上传流程](http://bbs.quickapp.cn/posts/detail?id=249)
+
+### 审核规范
+
+* [OPPO快应用测试审核规范](http://bbs.quickapp.cn/posts/detail?id=525)
+
 ## 工具
 
 * [快应用转换工具 - 小程序转快应用](https://github.com/dcloudio/uni-migration)
@@ -75,6 +83,7 @@
 * [快应用快速入门教程 by五个半柠檬(SF)](https://segmentfault.com/a/1190000014012762?utm_source=tag-newest)
 * [入门快应用的另一种姿势](https://juejin.im/post/5abb91bc5188255c93235780)
 * [快应用实现自定义组件](http://mp.weixin.qq.com/s/CstRBA0I5mtFppU4PIPF4g)
+* [OPPO快应用基础信息介绍 2018-3-28](http://bbs.quickapp.cn/posts/detail?id=524)
 
 ### 中级
 
