@@ -58,6 +58,7 @@
 ## 组件和库
 
 * [Quix UI快应用UI库](https://github.com/wuxinzhe/QuixUI)
+* [fly支持快应用的网络请求库](https://github.com/wendux/fly)
 
 ## 插件
 
@@ -102,6 +103,7 @@
 * [如何看待国内几家硬件厂商联合鼎力打造的快应用?(知乎)](https://www.zhihu.com/question/268675437/answer/343249351)
 * [九大厂商联合推出「快应用」，围攻微信？](https://zhuanlan.zhihu.com/p/34796337)
 * [快应用+小程序，99%的Android程序员即将失业！](http://bbs.quickapp.cn/posts/detail?id=446)
+* [手机厂商和开发者为何看好快应用新生态](https://zhuanlan.zhihu.com/p/34984080)
 
 ## 文章
 
@@ -111,10 +113,10 @@
 * [快应用-技术调研](http://mp.weixin.qq.com/s/44SX9k1tbAtqhaxP-OwosQ)
 * [Hello！快应用](http://mp.weixin.qq.com/s/zgkAR7YsbYt_CILacmD4sg)
 * [快应用标准发布，开发者需要知道些什么？](https://time.geekbang.org/column/article/5108)
-* [手机厂商和开发者为何看好快应用新生态](https://zhuanlan.zhihu.com/p/34984080)
 * [快应用发起进攻第一枪！小米直达服务正式更名快应用](https://zhuanlan.zhihu.com/p/34985022)
 * [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](http://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
 * [魅族体验快应用：免安装，快速触达你要的服务](https://zhuanlan.zhihu.com/p/35007620)
+* [flyio支持快应用了](https://juejin.im/post/5ab8667d518825557459af9a)
 * [快应用开源项目汇总，期待你的支持与关注！](https://juejin.im/post/5abb0b01f265da23906c0f1f)
 
 ## 视频
