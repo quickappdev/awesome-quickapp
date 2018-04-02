@@ -68,6 +68,7 @@
 
 ## 社区
 
+* [快应用开发者社区](http://www.ku9u.com/)
 * [快应用开发圈-微信公众号](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXtpdBqYpsYB0ics7DBYuJc9FbGIribBeypojBbb5fBMTEJxozajhovLD6qtibiayqsrfowyiaTlQhM3QkA/0)
 * [快应用开发圈-微信小程序]
 
@@ -104,6 +105,7 @@
 * [九大厂商联合推出「快应用」，围攻微信？](https://zhuanlan.zhihu.com/p/34796337)
 * [快应用+小程序，99%的Android程序员即将失业！](http://bbs.quickapp.cn/posts/detail?id=446)
 * [手机厂商和开发者为何看好快应用新生态](https://zhuanlan.zhihu.com/p/34984080)
+* [第一届快应用开发圈吐槽大会即将开始，期待您的参与！](http://www.ku9u.com/page/428.html)
 
 ## 文章
 
