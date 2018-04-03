@@ -55,6 +55,7 @@
 
 ## 工具
 
+* [华为快应用开发工具](https://omp.hicloud.com/dsm/hms/cn/catalog/fastapp.html?page=fastapp_fastapp_devprepare_install_tool)
 * [快应用转换工具 - 小程序转快应用](https://github.com/dcloudio/uni-migration)
 
 ## 项目实例
