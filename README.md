@@ -12,14 +12,18 @@
 * 请加微信号: [quickapp-dev](./statics/quickapp-dev.jpg)或扫码 ，由管理员邀请入群。   
 ![quickapp-dev](./statics/quickapp-dev.jpg)
 
+## 热点
+* [第一届快应用吐槽大会圆满成功！快应用吐槽内容大汇总！](http://www.ku9u.com/page/430.html)
+* [第一届快应用开发圈吐槽大会即将开始，期待您的参与！](http://www.ku9u.com/page/428.html)
+
 ## 目录
 
 * [官方文档](#官方文档)
+* [社区](#社区)
 * [工具](#工具)
 * [项目实例](#项目实例)
 * [组件和库](#组件和库)
 * [插件](#插件)
-* [社区](#社区)
 * [教程](#教程)
 * [代码示例](#代码示例)
 * [讨论](#讨论)
@@ -27,6 +31,11 @@
 * [视频](#视频)
 * [图书](#图书)
 * [求职](#求职)
+
+## 社区
+
+* [快应用开发者社区](http://www.ku9u.com/)
+* [快应用开发圈-微信公众号](http://www.ku9u.com/static/theme/liblog/res/common/images/common/jsout.jpg)
 
 ## 官方文档
 
@@ -65,12 +74,6 @@
 * [Vscode Hap Extension-轻应用语法高亮插件](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
 * [一个基于vscode应用于‘快应用’语法高亮](https://github.com/hatedMe/QuickApp-For-Highlighter)
 * [Vscode Quick App美化代码](https://github.com/hatedMe/beautify-quick-app)
-
-## 社区
-
-* [快应用开发者社区](http://www.ku9u.com/)
-* [快应用开发圈-微信公众号](https://mmbiz.qpic.cn/mmbiz_jpg/EyB2kOD2NXtpdBqYpsYB0ics7DBYuJc9FbGIribBeypojBbb5fBMTEJxozajhovLD6qtibiayqsrfowyiaTlQhM3QkA/0)
-* [快应用开发圈-微信小程序]
 
 ## 教程
 
