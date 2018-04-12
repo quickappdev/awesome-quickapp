@@ -1,6 +1,6 @@
 # 快应用开发圈资源汇总
 
-我们会收集最新最全的快应用教程、开发资源、案例及动态！为快应用开发者提供第一手学习资料！   
+*[快应用开发者社区](http://www.ku9u.com/)收集最新最全的快应用教程、开发资源、案例及动态！为快应用开发者提供第一手学习资料！   
 ![quickapp-pic](./statics/quickapp-pic.png)
 
 ## QQ交流群
@@ -12,9 +12,9 @@
 * 请加微信号: [quickapp-dev](./statics/quickapp-dev.jpg)或扫码 ，由管理员邀请入群。   
 ![quickapp-dev](./statics/quickapp-dev.jpg)
 
-## 热点
-* [第一届快应用吐槽大会圆满成功！快应用吐槽内容大汇总！](http://www.ku9u.com/page/430.html)
-* [第一届快应用开发圈吐槽大会即将开始，期待您的参与！](http://www.ku9u.com/page/428.html)
+## 热门
+* [快应用入门教程汇总](http://www.ku9u.com/topic/tutorials)
+* [快应用技术交流汇总](http://www.ku9u.com/topic/quickapptalk)
 
 ## 目录
 
