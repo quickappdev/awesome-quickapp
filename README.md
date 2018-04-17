@@ -64,6 +64,7 @@
 * [quickapp-neihanchezhan-内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
 * [快应用实现的微信demo](https://github.com/yale8848/quickapp-wechat)
+* [基于豆瓣api开发的快应用](https://github.com/keenjaan/quick-app-douban)
 
 ## 组件和库
 
